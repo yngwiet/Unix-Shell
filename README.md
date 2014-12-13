@@ -88,3 +88,11 @@ foreground.
 
 List all the running jobs:  The user can type “jobs” to display all the current running jobs in your
 system as well as the status of the jobs.
+
+
+
+How to use: 
+  1. complie under Linux/Unix system command line: gcc -o OSshell OSshell.c
+  2. run under command line: ./OSshell
+
+Enjoy!
