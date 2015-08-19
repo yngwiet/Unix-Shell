@@ -1,6 +1,6 @@
 Unix-Shell
 ==========
-This is a simple Unix shell school project I did in the third year, in which I implemented following things:
+This is a simple Unix shell project, in which I implemented following things:
   1. a shell interface
   2. execution of built-in commands and external programs under the shell
   3. handling pipe and redirection under the shell
